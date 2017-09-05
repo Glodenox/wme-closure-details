@@ -20,11 +20,11 @@ function init(e) {
     setTimeout(init, 300);
     return;
   }
-  if (!Waze.loginManager.hasUser()) {
+  if (!Waze.loginManager.user) {
     Waze.loginManager.events.register('login', null, init);
     Waze.loginManager.events.register('loginStatus', null, init);
     // Double check as event might have triggered already
-    if (!Waze.loginManager.hasUser()) {
+    if (!Waze.loginManager.user) {
       return;
     }
   }
