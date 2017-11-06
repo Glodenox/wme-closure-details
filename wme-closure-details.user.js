@@ -4,15 +4,15 @@
 // @description Provide access to all closure details within the closures list
 // @include     /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor.*$/
 // @icon        data:image/png;base64,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
-// @version     1.0.1
+// @version     1.0.2
 // @grant       none
 // ==/UserScript==
 
 function init(e) {
-  if (e && e.user == null) {
+  if (e && e.user === null) {
     return;
   }
-  if (document.getElementById('user-info') == null) {
+  if (document.getElementById('user-info') === null) {
     setTimeout(init, 500);
     return;
   }
@@ -32,7 +32,7 @@ function init(e) {
   // Deal with events mode
   if (Waze.app.modeController) {
     Waze.app.modeController.model.bind('change:mode', function(model, modeId) {
-      if (modeId == 0) {
+      if (modeId === 0) {
         observeContentsPane();
       }
     });
@@ -65,15 +65,15 @@ function observeContentsPane() {
           });
         }
         var matchedClosure = selectedClosures.find(function(closure) {
-          return getLocalizedTime(closure.startDate) == getTimeFromBlock(closureBlock.querySelector('.start-date'))
-          && getLocalizedTime(closure.endDate) == getTimeFromBlock(closureBlock.querySelector('.end-date'));
+          return getLocalizedTime(closure.startDate) == getTimeFromBlock(closureBlock.querySelector('.start-date')) &&
+            getLocalizedTime(closure.endDate) == getTimeFromBlock(closureBlock.querySelector('.end-date'));
         });
         if (matchedClosure) {
           var description = '<div>';
-          if (matchedClosure.reason != '') {
+          if (matchedClosure.reason !== '') {
             description = '<strong style="font-size:120%">' + matchedClosure.reason + '</strong>';
           } else {
-            description = '<em style="font-size:120%">No description set</em>'
+            description = '<em style="font-size:120%">No description set</em>';
           }
           description += '<table style="border-width:0;text-align:left"><tbody><tr><th style="text-align:right;padding-right:0.4em">Created by</th><td>' + getUsername(matchedClosure.createdBy) + '</td></tr><tr><th style="text-align:right;padding-right:0.4em">Created on</th><td>' + I18n.l('time.formats.long', matchedClosure.createdOn) + '</td></tr>';
           if (matchedClosure.updatedBy) {
@@ -93,9 +93,11 @@ function observeContentsPane() {
         }
       }
     });
-    (new MutationObserver(handleMutations)).observe(document.querySelector('.contents .main'), {
-      childList: true
-    });
+    if (document.querySelector('.contents .main')) {
+      (new MutationObserver(handleMutations)).observe(document.querySelector('.contents .main'), {
+        childList: true
+      });
+    }
   }
   (new MutationObserver(handleMutations)).observe(document.querySelector('.contents'), {
     childList: true
