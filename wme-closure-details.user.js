@@ -156,7 +156,7 @@ function applyStyles() {
 .tooltip-inner .details th {
   text-align: right;
   padding-right: 0.4em;
-color: #fff;
+  color: #fff;
 }
 `;
   }
